@@ -1,4 +1,5 @@
-server { 
+#abc
+server {
     listen 4001;
     server_name products;
     location / {

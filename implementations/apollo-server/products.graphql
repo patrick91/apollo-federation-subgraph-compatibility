@@ -54,3 +54,4 @@ extend type User @key(fields: "email") {
   totalProductsCreated: Int @external
   yearsOfEmployment: Int! @external
 }
+#test

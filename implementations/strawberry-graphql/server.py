@@ -285,3 +285,5 @@ class Query:
 
 
 schema = strawberry.federation.Schema(query=Query, enable_federation_2=True)
+
+# just triggering a test
